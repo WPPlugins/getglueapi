@@ -1,0 +1,286 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/getglueapi\n"
+"POT-Creation-Date: 2011-11-24 00:58:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: html/config.php:4
+msgid "Like this plugin?"
+msgstr ""
+
+#: html/config.php:6
+msgid "Please consider one of the following ..."
+msgstr ""
+
+#: html/config.php:8
+msgid "Enable the credit link in the widget"
+msgstr ""
+
+#: html/config.php:9
+msgid "Give it a rating on"
+msgstr ""
+
+#: html/config.php:10
+msgid "Donate for development"
+msgstr ""
+
+#: html/config.php:36
+msgid "Not connected to getglue&reg;"
+msgstr ""
+
+#: html/config.php:45
+msgid ""
+"The process to set up OAuth authentication for your web site is a simple 3-"
+"steps."
+msgstr ""
+
+#: html/config.php:46
+msgid "1. Register this site as an application with "
+msgstr ""
+
+#: html/config.php:46
+msgid "GetGlue&reg;"
+msgstr ""
+
+#: html/config.php:48
+msgid ""
+"Do this by sending an email to api@getglue.com with your name, website, and "
+"the fact that you wish to use this Wordpress plugin"
+msgstr ""
+
+#: html/config.php:50
+msgid "Once you receive a reply, you will be provided with two keys."
+msgstr ""
+
+#: html/config.php:51
+msgid ""
+"2. Copy and paste your Client ID and Client Secret into the fields below"
+msgstr ""
+
+#: html/config.php:56 html/config.php:121
+msgid "Client ID"
+msgstr ""
+
+#: html/config.php:60 html/config.php:125
+msgid "Client ID from getglue&reg;"
+msgstr ""
+
+#: html/config.php:65 html/config.php:131
+msgid "Client Secret"
+msgstr ""
+
+#: html/config.php:69 html/config.php:135
+msgid "Client Secret from getglue&reg;"
+msgstr ""
+
+#: html/config.php:83
+msgid ""
+"3. Now that your have your application details, you may connect to "
+"getglue&reg;"
+msgstr ""
+
+#: html/config.php:91
+msgid "Update API Keys"
+msgstr ""
+
+#: html/config.php:95
+msgid "Connect to getglue&reg;"
+msgstr ""
+
+#: html/config.php:108
+msgid "Connected to getglue&reg;"
+msgstr ""
+
+#: html/config.php:141
+msgid "OAuth Token"
+msgstr ""
+
+#: html/config.php:145
+msgid "OAuth Token from getglue&reg;"
+msgstr ""
+
+#: html/config.php:153
+msgid "Disconnect from getglue&reg;"
+msgstr ""
+
+#: html/config.php:159
+msgid "GetGlueAPI Stats"
+msgstr ""
+
+#: html/config.php:173 GetGlueAPI.php:292
+msgid "Interactions"
+msgstr ""
+
+#: html/config.php:177
+msgid "last cached"
+msgstr ""
+
+#: html/config.php:183
+msgid "Interactions Cache Life"
+msgstr ""
+
+#: html/config.php:187
+msgid "Never"
+msgstr ""
+
+#: html/config.php:188
+msgid "1 minute"
+msgstr ""
+
+#: html/config.php:189
+msgid "2 minutes"
+msgstr ""
+
+#: html/config.php:190
+msgid "3 minutes"
+msgstr ""
+
+#: html/config.php:191
+msgid "4 minutes"
+msgstr ""
+
+#: html/config.php:192
+msgid "5 minutes"
+msgstr ""
+
+#: html/config.php:200
+msgid "Update Cache Settings"
+msgstr ""
+
+#: GetGlueAPI.php:43
+msgid ""
+"getglue&reg; requires authentication by OAuth. You will need to <a href=\"%s"
+"\">update your settings</a> to complete installation of GetGlueAPI."
+msgstr ""
+
+#: GetGlueAPI.php:58
+msgid "GetGlueAPI Settings"
+msgstr ""
+
+#: GetGlueAPI.php:58
+msgid "GetGlueAPI"
+msgstr ""
+
+#: GetGlueAPI.php:69
+msgid "Settings"
+msgstr ""
+
+#: GetGlueAPI.php:249
+msgid "This widget displays your getglue&reg; interactions."
+msgstr ""
+
+#: GetGlueAPI.php:250
+msgid "GetGlueAPI Interactions"
+msgstr ""
+
+#: GetGlueAPI.php:284
+msgid "GetGlue Username"
+msgstr ""
+
+#: GetGlueAPI.php:288
+msgid "Data Type"
+msgstr ""
+
+#: GetGlueAPI.php:295
+msgid "Recent Checkins"
+msgstr ""
+
+#: GetGlueAPI.php:298
+msgid "Mayorships"
+msgstr ""
+
+#: GetGlueAPI.php:302
+msgid "Widget Title"
+msgstr ""
+
+#: GetGlueAPI.php:306
+msgid "Widget Byline"
+msgstr ""
+
+#: GetGlueAPI.php:310
+msgid "Widget Width"
+msgstr ""
+
+#: GetGlueAPI.php:310
+msgid "(in px)"
+msgstr ""
+
+#: GetGlueAPI.php:314
+msgid "Venues Limit"
+msgstr ""
+
+#: GetGlueAPI.php:314
+msgid "(0 to show all available)"
+msgstr ""
+
+#: GetGlueAPI.php:321
+msgid "Show Stats"
+msgstr ""
+
+#: GetGlueAPI.php:326
+msgid "Show Likes"
+msgstr ""
+
+#: GetGlueAPI.php:331
+msgid "Show Stickers"
+msgstr ""
+
+#: GetGlueAPI.php:336
+msgid "List instead of scrolling box"
+msgstr ""
+
+#: GetGlueAPI.php:339
+msgid "Autoscroll Rate"
+msgstr ""
+
+#: GetGlueAPI.php:339
+msgid "(in milliseconds, 0 to disable, ignored if list)"
+msgstr ""
+
+#: GetGlueAPI.php:343
+msgid "Unique ID"
+msgstr ""
+
+#: GetGlueAPI.php:350
+msgid "Link back to NZGuru (I appreciate it)"
+msgstr ""
+
+#: GetGlueAPI.php:381
+msgid "powered by"
+msgstr ""
+
+#: GetGlueAPI.php:763
+msgid "%s ago"
+msgstr ""
+
+#: GetGlueAPI.php:765
+msgid "Y/m/d"
+msgstr ""
+
+#: GetGlueAPI.php:766
+msgid "%s"
+msgstr ""
+
+#: GetGlueAPI.php:766
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: GetGlueAPI.php:777
+msgid "LIKED"
+msgstr ""
+
+#: GetGlueAPI.php:778
+msgid "DISLIKED"
+msgstr ""
+
+#: GetGlueAPI.php:779
+msgid "CHECKED IN"
+msgstr ""

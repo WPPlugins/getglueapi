@@ -1,0 +1,167 @@
+/* CSS Document */
+.GetGlueAPI_badges,
+.GetGlueAPI_interactions {
+	display: inline-block;
+}
+.GetGlueAPI_slider {
+	position:relative;
+}
+.GetGlueAPI_sliderArrows a {
+display:block;
+text-indent:-9999px;
+outline:none;
+z-index:50;
+background-image:url(../images/prev_next.png);
+width:42px;
+height:42px;
+position:absolute;
+top:0;
+margin-top:-10px;
+}
+
+.GetGlueAPI_sliderPrev {
+background-position:0 0;
+left:0;
+}
+
+.GetGlueAPI_sliderPrev:hover {
+background-position:0 -44px;
+}
+
+.GetGlueAPI_sliderNext {
+right:0;
+background-position:-44px 0;
+}
+
+.GetGlueAPI_sliderNext:hover {
+background-position:-44px -44px;
+}
+
+.GetGlueAPI_sliderContent {
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.GetGlueAPI_listContent {
+	display: inline-block;
+	overflow:hidden;
+}
+.GetGlueAPI_item {
+  background-color: #F9F8F7;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+	position:absolute;
+	display: inline-block;
+	color: #444444 !important;
+}
+.GetGlueAPI_badge {
+  margin-bottom: 5px;
+  padding: 5px;
+  display: inline-block;
+}
+.GetGlueAPI_sliderContent .GetGlueAPI_badgeImage {
+  float: right !important;
+  margin: 0 0 0 5px !important;
+}
+.GetGlueAPI_listContent .GetGlueAPI_badgeImage {
+  float: left !important;
+  margin: 0 0 0 5px !important;
+}
+.GetGlueAPI_item img {
+  float: left;
+  margin: 0 5px 0 0;
+  cursor: pointer;
+}
+.GetGlueAPI_item img.noclick {
+  cursor: default;
+}
+.GetGlueAPI_title a {
+  color: #444444 !important;
+  font-size: 15px;
+  line-height: 16px;
+  margin-top: 6px;
+  font-weight: bold;
+  margin: 0;
+  clear: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.GetGlueAPI_timestamp {
+	text-align: right;
+	font-size: 10px;
+}
+.GetGlueAPI_description {
+  background-color: #E6E6E6;
+  clear: none;
+  padding: 3px;
+  position: relative;
+  line-height: 12px;
+  font-size: 10px;
+  overflow: hidden;
+  height: 35px;
+  margin-bottom: 3px;
+}
+.GetGlueAPI_details {
+  background-color: #E6E6E6;
+  clear: left;
+  float: left;
+  margin: 7px 0 0 37px;
+  padding: 3px 8px 8px;
+  position: relative;
+  line-height: 17px;
+  font-size: 15px;
+  width: 100%;
+}
+.GetGlueAPI_details_adr,
+.GetGlueAPI_details_twitter,
+.GetGlueAPI_details_website {
+  margin-top: 3px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.GetGlueAPI_stats {
+  background-color: #F9F9F9;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px 5px 5px 5px;
+  margin: 7px 0 0 37px;
+  overflow: hidden;
+  float: right;
+  padding-top: 3px;
+  width: 175px;
+}
+.GetGlueAPI_stat {
+	width: 31%;
+  font-size: 8.5px;
+  line-height: 9.5px;
+	display: inline-block;
+	text-align: center;
+	overflow: hidden;
+  border-right: 1px dotted #CCCCCC;
+}
+.GetGlueAPI_stats strong {
+  color: #555555;
+  display: block;
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: bold;
+}
+.GetGlueAPI_stats4digits {
+	font-size: 18px;
+	line-height: 20px;
+}
+.GetGlueAPI_stats5digits {
+	font-size: 16px;
+	line-height: 18px;
+}
+.GetGlueAPI_stats6digits {
+	font-size: 14px;
+	line-height: 16px;
+}
+.GetGlueAPI_stats7digits {
+	font-size: 11px;
+	line-height: 16px;
+}
